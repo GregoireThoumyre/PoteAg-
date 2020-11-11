@@ -1,2 +1,2 @@
-# PoteAg-
+# PoteAge
 Potagé de Isabelle Thoumyre
