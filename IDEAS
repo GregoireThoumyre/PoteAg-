@@ -1,0 +1,31 @@
+        Mes Idées
+
+
+- soleil/lune qui bouge selon la date que l'on donne
+* date donnée par un slider dans un premier tps puis par un calendrier si poss
+- siganler en orange puis rouge les plantations dont se n'est plus la saison ou plus trop pour le orange
+- add button TODAY qui reset la date a today et le setselectedday a today par la meme occas
+- rendre les buttons de plantation clickable lorsqu'on clique sur PLANTER
+- button AJOUTERLEGUME & RETIRERLEGUME
+- self.potager
+- self.bdd
+- load les 2
+- creer self.bdd
+- remplir/tester self.potager
+- button CLEARPOTAGER
+- couleur aux buttons
+
+
+
+
+/!\ GERER LES SEMIS MEEERRRDDEEE
+hyperlien vers la page web rustica
+
+
+
+
+
+.csv pour la bdd plantations
+.csv pour la save du potager actuel
+
+
