@@ -1,0 +1,3 @@
+Nom;Famille;Hauteur;Icon;Emplacement;Exposition;Ensoleillement;Description;Eloigner de;Rapprocher de;Planter apres
+Aubergine;Legume-fruit;;aubergine.png;milieu;;;;;;
+Basilic;Legume-feuille;;basilic.png;;sud;Plein soleil;;;;

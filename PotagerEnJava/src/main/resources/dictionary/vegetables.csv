@@ -1,0 +1,26 @@
+﻿Nom;Famille;Hauteur;Icon;Emplacement;Exposition;Ensoleillement;Description;Eloigner de;Rapprocher de;Planter apres
+Aubergine;Legume-fruit;;aubergine.png;milieu;;;;;;
+Basilic;Legume-feuille;;basilic.png;;sud;Plein soleil;;;;
+Betterave;Legume-racine;;betterave.png;;;;;Carotte, Tomate, Poireau;;
+Brocoli;Legume-feuille;;brocoli.png;bord;;;;;;
+Carotte;Legume-racine;;carotte.png;milieu;;;;Betterave;;
+Celeri;Legume-racine;;celeri.png;milieu;;;;Laitue, Persil;;
+Chicoree;Legume-feuille;;chicoree.png;;;;;;;
+Chou de Chine;Legume-feuille;;choudechine.png;;;;;Radis;;
+Concombre;Legume-fruit;;concombre.png;bord;nord;;Palisse;;;
+Epinard;Legume-feuille;;epinard.png;bord;;Plein soleil;;;;
+Haricots grimpants;Legume-graine;;haricotsgrimpants.png;;nord;;Palisse;Poireau, Oignon blanc;;
+Haricots nains;Legume-graine;;haricotsnains.png;;;;;Poireau, Oignon blanc;Aubergine, Poivron, Tomate;
+Laitue;Legume-feuille;;laitue.png;;;Ombre;;;Courgette, Navet, Carotte;
+Mache;Legume-feuille;;mache.png;;;;;;;
+Mesclun;Legume-feuille;;mesclun.png;;;;;;;
+Navet;Legume-fruit;;navet.png;milieu;;;;;Carotte, Celeri, Haricots grimpants, Haricots nains, Pois, Tomate, Laitue, Mesclun, Mache;
+Oignon blanc;Legume-racine;;oignonblanc.png;milieu;;;;;Betterave, Carotte, Laitue;
+Poireau;Legume-feuille;;poireau.png;milieu;;;;Chou de Chine, Pois, Haricots grimpants, Haricots nains, Oignon blanc;;
+Poiree;Legume-graine;;poiree.png;bord;;;;Poireau;;
+Pois;Legume-graine;;pois.png;;nord;;Palisse;Poireau, Oignon blanc;;
+Poivron;Legume-fruit;;poivron.png;bord;;Plein soleil;;;;
+Radis;Legume-racine;;radis.png;;;;;Chou de Chine, Navet;;
+Tomate;Legume-fruit;;tomate.png;;;;En tipi;;;
+Cornichon;Legume-fruit;;cornichon.png;bord;nord;;Palisse;;;
+Courgette;Legume-fruit;;courgette.png;bord;nord;;Palisse;;;

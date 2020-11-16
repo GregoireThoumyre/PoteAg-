@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: "mon-potager"
+
+server:
+  port: "6996"
+
+csv:
+  location: "D:/dev/project/PoteAge/PotagerEnJava/src/main/resources/dictionary"
+  separator: ";"
+  header: "true"
